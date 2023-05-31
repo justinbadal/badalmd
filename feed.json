@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "BadalMD",
+    "description": "",
+    "home_page_url": "https://www.badalmd.com",
+    "feed_url": "https://www.badalmd.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Justin Badal"
+    },
+    "items": [
+    ]
+}
