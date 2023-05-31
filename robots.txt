@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://www.badalmd.com/sitemap.xml
+Disallow: /

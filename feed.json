@@ -2,12 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "BadalMD",
     "description": "",
-    "home_page_url": "https://www.badalmd.com",
-    "feed_url": "https://www.badalmd.com/feed.json",
+    "home_page_url": "https://justinbadal.github.io/badalmd",
+    "feed_url": "https://justinbadal.github.io/badalmd/feed.json",
     "user_comment": "",
     "author": {
         "name": "Justin Badal"
     },
     "items": [
+        {
+            "id": "https://justinbadal.github.io/badalmd/badalmd-test/",
+            "url": "https://justinbadal.github.io/badalmd/badalmd-test/",
+            "title": "badalmd test",
+            "summary": "testing",
+            "content_html": "<p>testing</p>\n",
+            "author": {
+                "name": "Justin Badal"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-31T16:45:45-05:00",
+            "date_modified": "2023-05-31T16:45:45-05:00"
+        }
     ]
 }
