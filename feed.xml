@@ -3,10 +3,58 @@
     <title>BadalMD</title>
     <link href="https://justinbadal.github.io/badalmd/feed.xml" rel="self" />
     <link href="https://justinbadal.github.io/badalmd" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2023-06-04T18:20:04-05:00</updated>
     <author>
         <name>JustinB</name>
     </author>
     <id>https://justinbadal.github.io/badalmd</id>
 
+    <entry>
+        <title>Justin Badal, MD</title>
+        <author>
+            <name>JustinB</name>
+        </author>
+        <link href="https://justinbadal.github.io/badalmd/justin-badal-md-3.html"/>
+        <id>https://justinbadal.github.io/badalmd/justin-badal-md-3.html</id>
+        <media:content url="https://justinbadal.github.io/badalmd/media/posts/3/arseny-togulev-DE6rYp1nAho-unsplash.jpg" medium="image" />
+
+        <updated>2023-06-04T18:20:04-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://justinbadal.github.io/badalmd/media/posts/3/arseny-togulev-DE6rYp1nAho-unsplash.jpg" alt="Photo by Arseny Togulev on Unsplash" />
+                    UROLOGIC ONCOLOGY AND MINIMALLY INVASIVE SURGERY contact information 📞 713-798-4001 🔗 Baylor College of Medicine - Scott Department of Urology
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://justinbadal.github.io/badalmd/media/posts/3/arseny-togulev-DE6rYp1nAho-unsplash.jpg" class="type:primaryImage" alt="Photo by Arseny Togulev on Unsplash" /></p>
+                <h3><span style="color: #e03e2d;"><span class="notion-enable-hover" data-token-index="0">UROLOGIC ONCOLOGY AND MINIMALLY INVASIVE SURGERY</span></span></h3>
+<hr>
+<h3>contact information</h3>
+<p>📞 713-798-4001</p>
+<p>🔗 <a href="https://www.bcm.edu/departments/urology">Baylor College of Medicine - Scott Department of Urology</a></p>
+<h4>📓 recommended resources</h4>
+<table style="border-collapse: collapse; width: 102.564%; height: 253px; border-style: hidden;" border="0">
+<tbody>
+<tr style="height: 50.3594px;">
+<td style="width: 33.3333%; height: 50.3594px;"><a href="https://justinbadal.github.io/badalmd/prostate-cancer.html">prostate cancer</a></td>
+<td style="width: 33.3333%; height: 50.3594px;"><a href="https://justinbadal.github.io/badalmd/bph.html">bph (benign prostatic hyperplasia)</a></td>
+<td style="width: 33.3333%; height: 50.3594px;"><a href="https://justinbadal.github.io/badalmd/simple-prostatectomy-2.html">simple prostatectomy</a></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td style="width: 33.3333%; height: 50.3594px;"><a href="https://justinbadal.github.io/badalmd/renal-masses.html">renal masses</a></td>
+<td style="width: 33.3333%; height: 50.3594px;"> </td>
+<td style="width: 33.3333%; height: 50.3594px;"><a href="https://justinbadal.github.io/badalmd/kidney-stones.html">kidney stones</a></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td style="width: 33.3333%; height: 50.3594px;"> </td>
+<td style="width: 33.3333%; height: 50.3594px;"> </td>
+<td style="width: 33.3333%; height: 50.3594px;"> </td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
