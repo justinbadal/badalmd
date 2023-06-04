@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+Disallow:
+Sitemap: https://justinbadal.github.io/badalmd/sitemap.xml

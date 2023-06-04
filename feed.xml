@@ -3,31 +3,10 @@
     <title>BadalMD</title>
     <link href="https://justinbadal.github.io/badalmd/feed.xml" rel="self" />
     <link href="https://justinbadal.github.io/badalmd" />
-    <updated>2023-05-31T16:45:45-05:00</updated>
+    <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
-        <name>Justin Badal</name>
+        <name>JustinB</name>
     </author>
     <id>https://justinbadal.github.io/badalmd</id>
 
-    <entry>
-        <title>badalmd test</title>
-        <author>
-            <name>Justin Badal</name>
-        </author>
-        <link href="https://justinbadal.github.io/badalmd/badalmd-test/"/>
-        <id>https://justinbadal.github.io/badalmd/badalmd-test/</id>
-
-        <updated>2023-05-31T16:45:45-05:00</updated>
-            <summary>
-                <![CDATA[
-                    testing
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>testing</p>
-
-            ]]>
-        </content>
-    </entry>
 </feed>

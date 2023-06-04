@@ -6,22 +6,8 @@
     "feed_url": "https://justinbadal.github.io/badalmd/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Justin Badal"
+        "name": "JustinB"
     },
     "items": [
-        {
-            "id": "https://justinbadal.github.io/badalmd/badalmd-test/",
-            "url": "https://justinbadal.github.io/badalmd/badalmd-test/",
-            "title": "badalmd test",
-            "summary": "testing",
-            "content_html": "<p>testing</p>\n",
-            "author": {
-                "name": "Justin Badal"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-05-31T16:45:45-05:00",
-            "date_modified": "2023-05-31T16:45:45-05:00"
-        }
     ]
 }
