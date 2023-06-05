@@ -3,7 +3,7 @@
     <title>BadalMD</title>
     <link href="https://justinbadal.github.io/badalmd/feed.xml" rel="self" />
     <link href="https://justinbadal.github.io/badalmd" />
-    <updated>2023-06-04T19:22:28-05:00</updated>
+    <updated>2023-06-04T19:24:42-05:00</updated>
     <author>
         <name>JustinB</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://justinbadal.github.io/badalmd/justin-badal-md-3.html</id>
         <media:content url="https://justinbadal.github.io/badalmd/media/posts/3/arseny-togulev-DE6rYp1nAho-unsplash.jpg" medium="image" />
 
-        <updated>2023-06-04T19:22:28-05:00</updated>
+        <updated>2023-06-04T19:24:42-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://justinbadal.github.io/badalmd/media/posts/3/arseny-togulev-DE6rYp1nAho-unsplash.jpg" alt="Photo by Arseny Togulev on Unsplash" />
@@ -53,7 +53,7 @@
 </tr>
 </tbody>
 </table>
-<form method="POST">
+<form method="POST" data-netlify="true">
 <h5>✉️ contact me</h5>
 <div> </div>
 <div><input name="subject" required="" type="text" placeholder="Name"></div>
